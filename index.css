@@ -1,0 +1,30 @@
+.ok{
+    height: 400px;
+}
+
+.carousel-indicators{
+    
+    justify-content: center;
+    margin-left: 1% !important;
+}
+
+
+
+.carousel-indicators div {
+    
+    text-indent: 0 !important;
+    text-align: center;
+    font-size: 14px;
+    line-height: 30px;
+    width: 30px;
+    height: 30px !important;
+    border-radius: 100%;
+    
+  }
+  
+  
+
+  .love{
+    background-color: white !important;
+    
+  }
